@@ -5,7 +5,7 @@
 
 - Engineer Graduated: 2020 - The Saint-Petersburg Technological University 
 - Robotics and Artificial Intelligence - The Saint-Petersburg University ITMO
-- `Write code i my cardio` 
+- `Write code is my cardio` 
 
 
 ### Skills set
