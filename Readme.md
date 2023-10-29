@@ -3,9 +3,10 @@
 ### I'm python ML engineer 
 
 
-- Engineer Graduated: 2020 - The Saint-Petersburg Technological University 
-- Robotics and Artificial Intelligence - The Saint-Petersburg University ITMO
-- `Write code is my cardio` 
+-  Engineer Graduated: 2020 - The Saint-Petersburg Technological University 
+-  Robotics and Artificial Intelligence - The Saint-Petersburg University ITMO
+- `Write code is my cardio`
+-  **Dear HR right now i usually work in local gitlab what's why github more empty than full**
 
 
 ### Skills set
