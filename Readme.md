@@ -1,6 +1,6 @@
 ## Hello, github community my name Viktor Pavlov
 
-### I'm python ML engineer 
+### I'm python CV engineer 
 
 
 -  Engineer Graduated: 2020 - The Saint-Petersburg Technological University 
