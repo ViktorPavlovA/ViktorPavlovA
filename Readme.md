@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
   <img width="12" />
-  <img src="https://icon-icons.com/icons2/2107/PNG/512/file_type_cpp_icon_130670.png" height="40" alt="cpp logo"  />
+  <img src="https://icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" height="40" alt="cpp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
