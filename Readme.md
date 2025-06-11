@@ -43,3 +43,11 @@
 <a href="https://t.me/viktor_pavlov_98">
     <img src="https://icon-icons.com/icons2/3053/PNG/512/telegram_alt_macos_bigsur_icon_189661.png" height="80" alt="telegram logo" />
 </a>
+
+### Profile Views
+Сounting of visitors to this page in this section started from May 7, 2025
+
+![](https://count.getloli.com/get/@ViktorPavlovA.github.readme)
+</br>
+
+[MIT](LICENSE)
