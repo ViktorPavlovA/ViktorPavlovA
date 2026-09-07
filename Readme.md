@@ -3,11 +3,11 @@
 ### I'm python/cpp Computer Vision engineer in [Techtrans company](https://techtrans.ru/)
 
 
--  Engineer Graduated: 2020 - The Saint-Petersburg Technological University 
+-  Engineer Graduated: 2020 - The Saint-Petersburg Technological University
+
 -  Master's degree : Robotics and Artificial Intelligence - The Saint-Petersburg University ITMO 2023
 
-  
--  **Dear HR right now i usually work in local gitlab what's why github more empty than full**
+
 
 
 ### Skills set
