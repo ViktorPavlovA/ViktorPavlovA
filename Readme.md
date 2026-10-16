@@ -1,6 +1,6 @@
 ## Hello, github community my name Viktor Pavlov
 
-### I'm python/cpp Computer Vision engineer in [Techtrans company](https://techtrans.ru/)
+### I'm lead python/cpp Computer Vision engineer in [Techtrans company](https://techtrans.ru/)
 
 
 -  Engineer Graduated: 2020 - The Saint-Petersburg Technological University
